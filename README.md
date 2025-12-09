@@ -72,7 +72,7 @@ git clone https://github.com/meestaben/whisky-metadata.git
 cd whisky-metadata
 python -m venv .venv
 source .venv/bin/activate
-pip install -r requirements.txt
+pip install -r tools/requirements.txt
 python tools/build.py
 ```
 
