@@ -29,7 +29,7 @@ jobs:
 
       - name: Build dist artifacts (csv/json/xml)
         run: |
-          python tools/build_csv.py
+          python tools/build.py
 
       - name: Prepare publish directory
         run: |

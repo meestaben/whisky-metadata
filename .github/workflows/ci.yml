@@ -30,4 +30,4 @@ jobs:
 
       - name: Build dist (csv/json/xml)
         run: |
-          python tools/build_csv.py
+          python tools/build.py
