@@ -1,0 +1,3852 @@
+[
+  {
+    "id": "distillery.8-doors",
+    "label": "8 Doors",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Kerry and Derek Campbell",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2022,
+      "location": "John O\u2019Groats"
+    }
+  },
+  {
+    "id": "distillery.aberargie",
+    "label": "Aberargie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Perth Distilling Co",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2017,
+      "location": "Aberargie"
+    }
+  },
+  {
+    "id": "distillery.aberfeldy",
+    "label": "Aberfeldy",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "John Dewar & Sons",
+      "owner_primary": "Bacardi",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1896,
+      "location": "Aberfeldy"
+    }
+  },
+  {
+    "id": "distillery.aberlour",
+    "label": "Aberlour",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1879,
+      "location": "Aberlour"
+    }
+  },
+  {
+    "id": "distillery.abhainn-dearg",
+    "label": "Abhainn Dearg",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Mark Tayburn",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2008,
+      "location": "Uig"
+    }
+  },
+  {
+    "id": "distillery.adelphi",
+    "label": "Adelphi",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1907,
+      "location": "Glasgow"
+    }
+  },
+  {
+    "id": "distillery.ailsa-bay",
+    "label": "Ailsa Bay",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "William Grant & Sons",
+      "owner_primary": "William Grant & Sons",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2009,
+      "location": "Girvan"
+    }
+  },
+  {
+    "id": "distillery.albyn",
+    "label": "Albyn",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1920,
+      "location": "Millknowe"
+    }
+  },
+  {
+    "id": "distillery.allt-a-bhainne",
+    "label": "Allt-A-Bhainne",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1975,
+      "location": "Glenrinnes"
+    }
+  },
+  {
+    "id": "distillery.annandale",
+    "label": "Annandale",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Annandale Distillery Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1836,
+      "location": "Annan"
+    }
+  },
+  {
+    "id": "distillery.arbikie",
+    "label": "Arbikie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Arbikie Highland Estate",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2013,
+      "location": "Inverkeilor"
+    }
+  },
+  {
+    "id": "distillery.ardbeg",
+    "label": "Ardbeg",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "LVMH",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1815,
+      "location": "Port Ellen"
+    }
+  },
+  {
+    "id": "distillery.ardgowan",
+    "label": "Ardgowan",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Ardgowan Distillery Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1896,
+      "location": "Inverkip"
+    }
+  },
+  {
+    "id": "distillery.ardlussa",
+    "label": "Ardlussa",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1927,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.ardmore",
+    "label": "Ardmore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Suntory Global Spirits",
+      "owner_primary": "Suntory Global Spirits",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1898,
+      "location": "Kennethmont"
+    }
+  },
+  {
+    "id": "distillery.ardnahoe",
+    "label": "Ardnahoe",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "Hunter Laing & Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2019,
+      "location": "Port Askaig"
+    }
+  },
+  {
+    "id": "distillery.ardnamurchan",
+    "label": "Ardnamurchan",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Adelphi Distillery Co",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2014,
+      "location": "Ardnamurchan"
+    }
+  },
+  {
+    "id": "distillery.ardross",
+    "label": "Ardross",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Greenwood Distillers",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2019,
+      "location": "Alness"
+    }
+  },
+  {
+    "id": "distillery.argyll",
+    "label": "Argyll",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1923,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.arran",
+    "label": "Arran",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Isle of Arran Distillers Ltd.",
+      "owner_primary": "Isle of Arran Distillers",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1995,
+      "location": "Lochranza"
+    }
+  },
+  {
+    "id": "distillery.auchentoshan",
+    "label": "Auchentoshan",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Suntory Global Spirits",
+      "owner_primary": "Suntory Global Spirits",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1823,
+      "location": "Dalmuir"
+    }
+  },
+  {
+    "id": "distillery.auchinblae",
+    "label": "Auchinblae",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1929,
+      "location": "Auchenblae"
+    }
+  },
+  {
+    "id": "distillery.auchnagie",
+    "label": "Auchnagie",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1911,
+      "location": "Tulliemet"
+    }
+  },
+  {
+    "id": "distillery.auchroisk",
+    "label": "Auchroisk",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1972,
+      "location": "Mulben"
+    }
+  },
+  {
+    "id": "distillery.auchtermuchty",
+    "label": "Auchtermuchty",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "closed",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1926,
+      "location": "Auchtermuchty"
+    }
+  },
+  {
+    "id": "distillery.auchtertool",
+    "label": "Auchtertool",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1927,
+      "location": "Auchtertool"
+    }
+  },
+  {
+    "id": "distillery.aultmore",
+    "label": "Aultmore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "John Dewar & Sons",
+      "owner_primary": "Bacardi",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1895,
+      "location": "Banffshire"
+    }
+  },
+  {
+    "id": "distillery.balblair",
+    "label": "Balblair",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Inver House Distillers",
+      "owner_primary": "International Beverage",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1790,
+      "location": "Edderton"
+    }
+  },
+  {
+    "id": "distillery.ballechin",
+    "label": "Ballechin",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1927,
+      "location": "Pitlochry"
+    }
+  },
+  {
+    "id": "distillery.ballindalloch",
+    "label": "Ballindalloch",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Ballindalloch Distillery LLP",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2014,
+      "location": "Ballindalloch"
+    }
+  },
+  {
+    "id": "distillery.balmenach",
+    "label": "Balmenach",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Inver House Distillers",
+      "owner_primary": "International Beverage",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1824,
+      "location": "Cromdale"
+    }
+  },
+  {
+    "id": "distillery.balvenie",
+    "label": "Balvenie",
+    "aliases": [
+      "The Balvenie"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "William Grant & Sons",
+      "owner_primary": "William Grant & Sons",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1892,
+      "location": "Dufftown"
+    }
+  },
+  {
+    "id": "distillery.banff",
+    "label": "Banff",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1983,
+      "location": "Banff"
+    }
+  },
+  {
+    "id": "distillery.bankier",
+    "label": "Bankier",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1928,
+      "location": "Denny"
+    }
+  },
+  {
+    "id": "distillery.ben-morven",
+    "label": "Ben Morven",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1914,
+      "location": "Halkirk"
+    }
+  },
+  {
+    "id": "distillery.ben-nevis",
+    "label": "Ben Nevis",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Nikka Whisky Distilling Co Ltd",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1825,
+      "location": "Fort William"
+    }
+  },
+  {
+    "id": "distillery.ben-wyvis",
+    "label": "Ben Wyvis",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1977,
+      "location": "Dingwall"
+    }
+  },
+  {
+    "id": "distillery.benachie",
+    "label": "Benachie",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1915,
+      "location": "Insch"
+    }
+  },
+  {
+    "id": "distillery.benbecula",
+    "label": "Benbecula",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Angus A. MacMillan",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2024,
+      "location": "Outer Hebrides"
+    }
+  },
+  {
+    "id": "distillery.benmore",
+    "label": "Benmore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "closed",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1927,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.benriach",
+    "label": "BenRiach",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Brown-Forman",
+      "owner_primary": "Brown-Forman",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1898,
+      "location": "Longmorn"
+    }
+  },
+  {
+    "id": "distillery.benrinnes",
+    "label": "Benrinnes",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1826,
+      "location": "Banffshire"
+    }
+  },
+  {
+    "id": "distillery.benromach",
+    "label": "Benromach",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Gordon & MacPhail",
+      "owner_primary": "Gordon & MacPhail",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1898,
+      "location": "Forres"
+    }
+  },
+  {
+    "id": "distillery.blackness",
+    "label": "Blackness",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Colm O'Rourke",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2024,
+      "location": "Linlithgow"
+    }
+  },
+  {
+    "id": "distillery.bladnoch",
+    "label": "Bladnoch",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "David Prior",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1817,
+      "location": "Wigtown"
+    }
+  },
+  {
+    "id": "distillery.blair-athol",
+    "label": "Blair Athol",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1798,
+      "location": "Pitlochry"
+    }
+  },
+  {
+    "id": "distillery.bon-accord",
+    "label": "Bon Accord",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1913,
+      "location": "Aberdeen"
+    }
+  },
+  {
+    "id": "distillery.bonnington",
+    "label": "Bonnington",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Halewood Artisanal Spirits",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2020,
+      "location": "Edinburgh"
+    }
+  },
+  {
+    "id": "distillery.borders",
+    "label": "Borders",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "The Three Stills Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2018,
+      "location": "Hawick"
+    }
+  },
+  {
+    "id": "distillery.bowmore",
+    "label": "Bowmore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "Suntory Global Spirits",
+      "owner_primary": "Suntory Global Spirits",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1779,
+      "location": "Bowmore"
+    }
+  },
+  {
+    "id": "distillery.braeval",
+    "label": "Braeval",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1973,
+      "location": "Ballindalloch"
+    }
+  },
+  {
+    "id": "distillery.brewdog",
+    "label": "BrewDog",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "BrewDog",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2007,
+      "location": "Ellon"
+    }
+  },
+  {
+    "id": "distillery.brora",
+    "label": "Brora",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "revived",
+      "extant": true,
+      "founded": 1819,
+      "location": "Brora"
+    }
+  },
+  {
+    "id": "distillery.bruichladdich",
+    "label": "Bruichladdich",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "R\u00e9my Cointreau",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1881,
+      "location": "Rhinns of Islay"
+    }
+  },
+  {
+    "id": "distillery.bunnahabhain",
+    "label": "Bunnahabhain",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "Distell",
+      "owner_primary": "Distell",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1881,
+      "location": "Port Askaig"
+    }
+  },
+  {
+    "id": "distillery.burn-o-bennie",
+    "label": "Burn O'Bennie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Deeside Brewery & Distillery Ltd.",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2021,
+      "location": "Banchory"
+    }
+  },
+  {
+    "id": "distillery.burnside",
+    "label": "Burnside",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1919,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.cabrach",
+    "label": "Cabrach",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "The Cabrach Trust",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2024,
+      "location": "Cabrach"
+    }
+  },
+  {
+    "id": "distillery.cairn",
+    "label": "Cairn",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Gordon & MacPhail",
+      "owner_primary": "Gordon & MacPhail",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2022,
+      "location": "Grantown-on-Spey"
+    }
+  },
+  {
+    "id": "distillery.caledonian",
+    "label": "Caledonian",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1842,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.campbeltown",
+    "label": "Campbeltown",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1924,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.caol-ila",
+    "label": "Caol Ila",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1846,
+      "location": "Port Askaig"
+    }
+  },
+  {
+    "id": "distillery.caperdonich",
+    "label": "Caperdonich",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2002,
+      "location": "Rothes"
+    }
+  },
+  {
+    "id": "distillery.cardhu",
+    "label": "Cardhu",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1824,
+      "location": "Knockando"
+    }
+  },
+  {
+    "id": "distillery.clydesdale",
+    "label": "Clydesdale",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1919,
+      "location": "Wishaw"
+    }
+  },
+  {
+    "id": "distillery.clydeside",
+    "label": "Clydeside",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Morrison Glasgow Distillers",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2017,
+      "location": "Glasgow"
+    }
+  },
+  {
+    "id": "distillery.clynelish",
+    "label": "Clynelish",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1967,
+      "location": "Brora"
+    }
+  },
+  {
+    "id": "distillery.coleburn",
+    "label": "Coleburn",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "operational_status": "planned",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1985,
+      "location": "Elgin"
+    }
+  },
+  {
+    "id": "distillery.convalmore",
+    "label": "Convalmore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "operational_status": "closed",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1985,
+      "location": "Dufftown"
+    }
+  },
+  {
+    "id": "distillery.cragganmore",
+    "label": "Cragganmore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1869,
+      "location": "Ballindalloch"
+    }
+  },
+  {
+    "id": "distillery.craigellachie",
+    "label": "Craigellachie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "John Dewar & Sons",
+      "owner_primary": "Bacardi",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1891,
+      "location": "Craigellachie"
+    }
+  },
+  {
+    "id": "distillery.daftmill",
+    "label": "Daftmill",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Francis and Ian Cuthbert",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2005,
+      "location": "Fife"
+    }
+  },
+  {
+    "id": "distillery.dailuaine",
+    "label": "Dailuaine",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1852,
+      "location": "Aberlour"
+    }
+  },
+  {
+    "id": "distillery.dalaruan",
+    "label": "Dalaruan",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1922,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.dalintober",
+    "label": "Dalintober",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1925,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.dallas-dhu",
+    "label": "Dallas Dhu",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "operational_status": "planned",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1983,
+      "location": "Forres"
+    }
+  },
+  {
+    "id": "distillery.dalmore",
+    "label": "Dalmore",
+    "aliases": [
+      "The Dalmore"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Whyte & Mackay",
+      "owner_primary": "Whyte & Mackay",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1839,
+      "location": "Alness"
+    }
+  },
+  {
+    "id": "distillery.dalmunach",
+    "label": "Dalmunach",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2015,
+      "location": "Carron"
+    }
+  },
+  {
+    "id": "distillery.dalwhinnie",
+    "label": "Dalwhinnie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1898,
+      "location": "Dalwhinnie"
+    }
+  },
+  {
+    "id": "distillery.dean",
+    "label": "Dean",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1922,
+      "location": "Edinburgh"
+    }
+  },
+  {
+    "id": "distillery.deanston",
+    "label": "Deanston",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Distell",
+      "owner_primary": "Distell",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1965,
+      "location": "Doune"
+    }
+  },
+  {
+    "id": "distillery.devanha",
+    "label": "Devanha",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1915,
+      "location": "Aberdeen"
+    }
+  },
+  {
+    "id": "distillery.dornoch",
+    "label": "Dornoch",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Dornoch Distillery Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2017,
+      "location": "Dornoch"
+    }
+  },
+  {
+    "id": "distillery.drumcaldie",
+    "label": "Drumcaldie",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1903,
+      "location": "Fife"
+    }
+  },
+  {
+    "id": "distillery.drumore",
+    "label": "Drumore",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1847,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.dufftown",
+    "label": "Dufftown",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1895,
+      "location": "Banffshire"
+    }
+  },
+  {
+    "id": "distillery.dunphail",
+    "label": "Dunphail",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Bimber",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2023,
+      "location": "Edinkillie"
+    }
+  },
+  {
+    "id": "distillery.eden-mill",
+    "label": "Eden Mill",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Paul Miller",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2012,
+      "location": "Fife"
+    }
+  },
+  {
+    "id": "distillery.edinburgh",
+    "label": "Edinburgh",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1925,
+      "location": "Edinburgh"
+    }
+  },
+  {
+    "id": "distillery.edradour",
+    "label": "Edradour",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Signatory Vintage Scotch Whisky Co",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1825,
+      "location": "Pitlochry"
+    }
+  },
+  {
+    "id": "distillery.falkirk",
+    "label": "Falkirk",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Fiona Stewart",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2020,
+      "location": "Falkirk"
+    }
+  },
+  {
+    "id": "distillery.fettercairn",
+    "label": "Fettercairn",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Whyte & Mackay",
+      "owner_primary": "Whyte & Mackay",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1824,
+      "location": "Fettercairn"
+    }
+  },
+  {
+    "id": "distillery.finnieston",
+    "label": "Finnieston",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1827,
+      "location": "Glasgow"
+    }
+  },
+  {
+    "id": "distillery.fortrose",
+    "label": "Fortrose",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1852,
+      "location": "Fortrose"
+    }
+  },
+  {
+    "id": "distillery.galloway",
+    "label": "Galloway",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Sam Heughan",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2017,
+      "location": "Galloway"
+    }
+  },
+  {
+    "id": "distillery.glasgow",
+    "label": "Glasgow",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "The Glasgow Distillery Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2015,
+      "location": "Glasgow"
+    }
+  },
+  {
+    "id": "distillery.glen-albyn",
+    "label": "Glen Albyn",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1983,
+      "location": "Inverness"
+    }
+  },
+  {
+    "id": "distillery.glen-elgin",
+    "label": "Glen Elgin",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1898,
+      "location": "Fogwatt"
+    }
+  },
+  {
+    "id": "distillery.glen-flagler",
+    "label": "Glen Flagler",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "closed",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1985,
+      "location": "Airdrie"
+    }
+  },
+  {
+    "id": "distillery.glen-garioch",
+    "label": "Glen Garioch",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Suntory Global Spirits",
+      "owner_primary": "Suntory Global Spirits",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1797,
+      "location": "Oldmeldrum"
+    }
+  },
+  {
+    "id": "distillery.glen-grant",
+    "label": "Glen Grant",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Campari",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1840,
+      "location": "Rothes"
+    }
+  },
+  {
+    "id": "distillery.glen-keith",
+    "label": "Glen Keith",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "revived",
+      "extant": true,
+      "founded": 1957,
+      "location": "Keith"
+    }
+  },
+  {
+    "id": "distillery.glen-mhor",
+    "label": "Glen Mhor",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1983,
+      "location": "Inverness"
+    }
+  },
+  {
+    "id": "distillery.glen-moray",
+    "label": "Glen Moray",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "La Martiniquaise",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1897,
+      "location": "Elgin"
+    }
+  },
+  {
+    "id": "distillery.glen-nevis",
+    "label": "Glen Nevis",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1923,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.glen-ord",
+    "label": "Glen Ord",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1838,
+      "location": "Muir of Ord"
+    }
+  },
+  {
+    "id": "distillery.glen-scotia",
+    "label": "Glen Scotia",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "owner_entity": "Loch Lomond Group",
+      "owner_primary": "Loch Lomond Group",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1832,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.glen-spey",
+    "label": "Glen Spey",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1878,
+      "location": "Rothes"
+    }
+  },
+  {
+    "id": "distillery.glenaden",
+    "label": "Glenaden",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1915,
+      "location": "Old Deer"
+    }
+  },
+  {
+    "id": "distillery.glenallachie",
+    "label": "Glenallachie",
+    "aliases": [
+      "The GlenAllachie"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "The GlenAllachie Distillers Co Limited",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1967,
+      "location": "Banffshire"
+    }
+  },
+  {
+    "id": "distillery.glenburgie",
+    "label": "Glenburgie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1810,
+      "location": "Moray"
+    }
+  },
+  {
+    "id": "distillery.glencadam",
+    "label": "Glencadam",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Angus Dundee Distiller",
+      "owner_primary": "Angus Dundee Distillers",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1825,
+      "location": "Angus"
+    }
+  },
+  {
+    "id": "distillery.glencawdor",
+    "label": "Glencawdor",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1927,
+      "location": "Nairn"
+    }
+  },
+  {
+    "id": "distillery.glencoull",
+    "label": "Glencoull",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1927,
+      "location": "Angus"
+    }
+  },
+  {
+    "id": "distillery.glendronach",
+    "label": "Glendronach",
+    "aliases": [
+      "The GlenDronach"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Brown-Forman",
+      "owner_primary": "Brown-Forman",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1826,
+      "location": "Aberdeenshire"
+    }
+  },
+  {
+    "id": "distillery.glendullan",
+    "label": "Glendullan",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1897,
+      "location": "Banffshire"
+    }
+  },
+  {
+    "id": "distillery.glenesk",
+    "label": "Glenesk",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1985,
+      "location": "Montrose"
+    }
+  },
+  {
+    "id": "distillery.glenfarclas",
+    "label": "Glenfarclas",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "J. & G. Grant",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1836,
+      "location": "Ballindalloch"
+    }
+  },
+  {
+    "id": "distillery.glenfiddich",
+    "label": "Glenfiddich",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "William Grant & Sons",
+      "owner_primary": "William Grant & Sons",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1886,
+      "location": "Dufftown"
+    }
+  },
+  {
+    "id": "distillery.glenfoyle",
+    "label": "Glenfoyle",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1923,
+      "location": "Gargunnock"
+    }
+  },
+  {
+    "id": "distillery.glengilp",
+    "label": "Glengilp",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1937,
+      "location": "Ardrishaig"
+    }
+  },
+  {
+    "id": "distillery.glenglassaugh",
+    "label": "Glenglassaugh",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Brown-Forman",
+      "owner_primary": "Brown-Forman",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1875,
+      "location": "Portsoy"
+    }
+  },
+  {
+    "id": "distillery.glengoyne",
+    "label": "Glengoyne",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Ian Macleod Distillers",
+      "owner_primary": "Ian Macleod Distillers",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1833,
+      "location": "Dumgoyne"
+    }
+  },
+  {
+    "id": "distillery.glengyle",
+    "label": "Glengyle",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "owner_entity": "Mitchell's Glengyle Ltd",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1872,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.gleniffer",
+    "label": "Gleniffer",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1894,
+      "location": "Elderslie"
+    }
+  },
+  {
+    "id": "distillery.glenkinchie",
+    "label": "Glenkinchie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1837,
+      "location": "Pencaitland"
+    }
+  },
+  {
+    "id": "distillery.glenlivet",
+    "label": "Glenlivet",
+    "aliases": [
+      "The Glenlivet"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1824,
+      "location": "Ballindalloch"
+    }
+  },
+  {
+    "id": "distillery.glenlochy",
+    "label": "Glenlochy",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1983,
+      "location": "Fort William"
+    }
+  },
+  {
+    "id": "distillery.glenlossie",
+    "label": "Glenlossie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1876,
+      "location": "Elgin"
+    }
+  },
+  {
+    "id": "distillery.glenmavis",
+    "label": "Glenmavis",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1910,
+      "location": "Bathgate"
+    }
+  },
+  {
+    "id": "distillery.glenmorangie",
+    "label": "Glenmorangie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "LVMH",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1843,
+      "location": "Tain"
+    }
+  },
+  {
+    "id": "distillery.glenramskill",
+    "label": "Glenramskill",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1854,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.glenrothes",
+    "label": "Glenrothes",
+    "aliases": [
+      "The Glenrothes"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Edrington",
+      "owner_primary": "Edrington",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1879,
+      "location": "Rothes"
+    }
+  },
+  {
+    "id": "distillery.glenside",
+    "label": "Glenside",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1926,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.glenskiach",
+    "label": "Glenskiach",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1926,
+      "location": "Evanton"
+    }
+  },
+  {
+    "id": "distillery.glentarras",
+    "label": "Glentarras",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1914,
+      "location": "Langholm"
+    }
+  },
+  {
+    "id": "distillery.glentauchers",
+    "label": "Glentauchers",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1897,
+      "location": "Mulben"
+    }
+  },
+  {
+    "id": "distillery.glenturret",
+    "label": "Glenturret",
+    "aliases": [
+      "The Glenturret"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Lalique Group",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1763,
+      "location": "Crieff"
+    }
+  },
+  {
+    "id": "distillery.glenugie",
+    "label": "Glenugie",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1983,
+      "location": "Peterhead"
+    }
+  },
+  {
+    "id": "distillery.glenury",
+    "label": "Glenury",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1985,
+      "location": "Stonehaven"
+    }
+  },
+  {
+    "id": "distillery.glenwyvis",
+    "label": "GlenWyvis",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "GlenWyvis Distillery Ltd.",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2015,
+      "location": "Dingwall"
+    }
+  },
+  {
+    "id": "distillery.grandtully",
+    "label": "Grandtully",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1910,
+      "location": "Grandtully"
+    }
+  },
+  {
+    "id": "distillery.grange",
+    "label": "Grange",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1925,
+      "location": "Burntisland"
+    }
+  },
+  {
+    "id": "distillery.greenock",
+    "label": "Greenock",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1915,
+      "location": "Greenock"
+    }
+  },
+  {
+    "id": "distillery.harris",
+    "label": "Harris",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Isle of Harris Distillers Ltd.",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2015,
+      "location": "Tarbert"
+    }
+  },
+  {
+    "id": "distillery.highland",
+    "label": "Highland",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1852,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.highland-park",
+    "label": "Highland Park",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Edrington",
+      "owner_primary": "Edrington",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1798,
+      "location": "Kirkwall"
+    }
+  },
+  {
+    "id": "distillery.holyrood",
+    "label": "Holyrood",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "David Robertson",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2019,
+      "location": "Edinburgh"
+    }
+  },
+  {
+    "id": "distillery.imperial",
+    "label": "Imperial",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1998,
+      "location": "Carron"
+    }
+  },
+  {
+    "id": "distillery.inchdairnie",
+    "label": "Inchdairnie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "John Fergus & Co.",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2015,
+      "location": "Glenrothes"
+    }
+  },
+  {
+    "id": "distillery.inchgower",
+    "label": "Inchgower",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1871,
+      "location": "Buckie"
+    }
+  },
+  {
+    "id": "distillery.inverleven",
+    "label": "Inverleven",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1991,
+      "location": "Dumbarton"
+    }
+  },
+  {
+    "id": "distillery.isla",
+    "label": "Isla",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1926,
+      "location": "Perth"
+    }
+  },
+  {
+    "id": "distillery.jackton",
+    "label": "Jackton",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "RAER Spirits",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2020,
+      "location": "Jackton"
+    }
+  },
+  {
+    "id": "distillery.jura",
+    "label": "Jura",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Whyte & Mackay",
+      "owner_primary": "Whyte & Mackay",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1810,
+      "location": "Craighouse"
+    }
+  },
+  {
+    "id": "distillery.kilchoman",
+    "label": "Kilchoman",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "Kilchoman Distillery Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2005,
+      "location": "Kilchoman"
+    }
+  },
+  {
+    "id": "distillery.kinclaith",
+    "label": "Kinclaith",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1976,
+      "location": "Glasgow"
+    }
+  },
+  {
+    "id": "distillery.kingsbarns",
+    "label": "Kingsbarns",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "The Kingsbarns Company of Distillers",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2014,
+      "location": "Kingsbarns"
+    }
+  },
+  {
+    "id": "distillery.kininvie",
+    "label": "Kininvie",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "William Grant & Sons",
+      "owner_primary": "William Grant & Sons",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1990,
+      "location": "Dufftown"
+    }
+  },
+  {
+    "id": "distillery.kinloch",
+    "label": "Kinloch",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1926,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.kintyre",
+    "label": "Kintyre",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1920,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.knockando",
+    "label": "Knockando",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1898,
+      "location": "Knockando"
+    }
+  },
+  {
+    "id": "distillery.knockdhu",
+    "label": "Knockdhu",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Inver House Distillers",
+      "owner_primary": "International Beverage",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1894,
+      "location": "Knock"
+    }
+  },
+  {
+    "id": "distillery.ladyburn",
+    "label": "Ladyburn",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1975,
+      "location": "Girvan"
+    }
+  },
+  {
+    "id": "distillery.lagavulin",
+    "label": "Lagavulin",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1816,
+      "location": "Port Ellen"
+    }
+  },
+  {
+    "id": "distillery.lagg",
+    "label": "Lagg",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Isle of Arran Distillers Ltd.",
+      "owner_primary": "Isle of Arran Distillers",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2019,
+      "location": "Lagg"
+    }
+  },
+  {
+    "id": "distillery.langholm",
+    "label": "Langholm",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1917,
+      "location": "Langholm"
+    }
+  },
+  {
+    "id": "distillery.laphroaig",
+    "label": "Laphroaig",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "Suntory Global Spirits",
+      "owner_primary": "Suntory Global Spirits",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1815,
+      "location": "Port Ellen"
+    }
+  },
+  {
+    "id": "distillery.leven",
+    "label": "Leven",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2013,
+      "location": "Leven"
+    }
+  },
+  {
+    "id": "distillery.lindores-abbey",
+    "label": "Lindores Abbey",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Lindores Distilling Co.",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2017,
+      "location": "Newburgh"
+    }
+  },
+  {
+    "id": "distillery.linkwood",
+    "label": "Linkwood",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1821,
+      "location": "Elgin"
+    }
+  },
+  {
+    "id": "distillery.littlemill",
+    "label": "Littlemill",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1992,
+      "location": "Bowling"
+    }
+  },
+  {
+    "id": "distillery.loch-katrine",
+    "label": "Loch Katrine",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1920,
+      "location": "Glasgow"
+    }
+  },
+  {
+    "id": "distillery.loch-lomond",
+    "label": "Loch Lomond",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Loch Lomond Group",
+      "owner_primary": "Loch Lomond Group",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1964,
+      "location": "Alexandria"
+    }
+  },
+  {
+    "id": "distillery.lochhead",
+    "label": "Lochhead",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1928,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.lochlea",
+    "label": "Lochlea",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Neil McGeoch",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2018,
+      "location": "Ayrshire"
+    }
+  },
+  {
+    "id": "distillery.lochruan",
+    "label": "Lochruan",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1925,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.lochside",
+    "label": "Lochside",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1992,
+      "location": "Montrose"
+    }
+  },
+  {
+    "id": "distillery.longmorn",
+    "label": "Longmorn",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1893,
+      "location": "Elgin"
+    }
+  },
+  {
+    "id": "distillery.macallan",
+    "label": "Macallan",
+    "aliases": [
+      "The Macallan"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Edrington",
+      "owner_primary": "Edrington",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1824,
+      "location": "Craigellachie"
+    }
+  },
+  {
+    "id": "distillery.macduff",
+    "label": "Macduff",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "John Dewar & Sons",
+      "owner_primary": "Bacardi",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1960,
+      "location": "Banff"
+    }
+  },
+  {
+    "id": "distillery.mannochmore",
+    "label": "Mannochmore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1971,
+      "location": "Elgin"
+    }
+  },
+  {
+    "id": "distillery.meadowburn",
+    "label": "Meadowburn",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1882,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.millburn",
+    "label": "Millburn",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1985,
+      "location": "Inverness"
+    }
+  },
+  {
+    "id": "distillery.miltonduff",
+    "label": "Miltonduff",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1824,
+      "location": "Elgin"
+    }
+  },
+  {
+    "id": "distillery.mortlach",
+    "label": "Mortlach",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1823,
+      "location": "Dufftown"
+    }
+  },
+  {
+    "id": "distillery.mossfield",
+    "label": "Mossfield",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1837,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.ncnean",
+    "label": "Nc\u2019nean",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Drimnin Distillery Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2017,
+      "location": "Lochlaline"
+    }
+  },
+  {
+    "id": "distillery.north-port",
+    "label": "North Port",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1983,
+      "location": "Brechin"
+    }
+  },
+  {
+    "id": "distillery.north-uist",
+    "label": "North Uist",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "North Uist Distillery Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2024,
+      "location": "Benbecula"
+    }
+  },
+  {
+    "id": "distillery.oban",
+    "label": "Oban",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1794,
+      "location": "Oban"
+    }
+  },
+  {
+    "id": "distillery.parkmore",
+    "label": "Parkmore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "operational_status": "closed",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1988,
+      "location": "Dufftown"
+    }
+  },
+  {
+    "id": "distillery.pittyvaich",
+    "label": "Pittyvaich",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1993,
+      "location": "Dufftown"
+    }
+  },
+  {
+    "id": "distillery.port-charlotte",
+    "label": "Port Charlotte",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "operational_status": "closed",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1929,
+      "location": "Port Charlotte"
+    }
+  },
+  {
+    "id": "distillery.port-ellen",
+    "label": "Port Ellen",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islay",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "rebuilt",
+      "extant": true,
+      "founded": 1825,
+      "location": "Port Ellen"
+    }
+  },
+  {
+    "id": "distillery.port-of-leith",
+    "label": "Port of Leith",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Muckle Brig",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2023,
+      "location": "Edinburgh"
+    }
+  },
+  {
+    "id": "distillery.provanmill",
+    "label": "Provanmill",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1922,
+      "location": "Glasgow"
+    }
+  },
+  {
+    "id": "distillery.pulteney",
+    "label": "Pulteney",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Inver House Distillers",
+      "owner_primary": "International Beverage",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1826,
+      "location": "Wick"
+    }
+  },
+  {
+    "id": "distillery.raasay",
+    "label": "Raasay",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "R&B Distillers",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2014,
+      "location": "Isle of Raasay"
+    }
+  },
+  {
+    "id": "distillery.rosebank",
+    "label": "Rosebank",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "owner_entity": "Ian Macleod Distillers",
+      "owner_primary": "Ian Macleod Distillers",
+      "operational_status": "operational",
+      "lineage": "rebuilt",
+      "extant": true,
+      "founded": 1798,
+      "location": "Falkirk"
+    }
+  },
+  {
+    "id": "distillery.roseisle",
+    "label": "Roseisle",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2010,
+      "location": "Roseisle"
+    }
+  },
+  {
+    "id": "distillery.royal-brackla",
+    "label": "Royal Brackla",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "John Dewar & Sons",
+      "owner_primary": "Bacardi",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1812,
+      "location": "Nairn"
+    }
+  },
+  {
+    "id": "distillery.royal-lochnagar",
+    "label": "Royal Lochnagar",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1845,
+      "location": "Ballater"
+    }
+  },
+  {
+    "id": "distillery.saucel",
+    "label": "Saucel",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1915,
+      "location": "Paisley"
+    }
+  },
+  {
+    "id": "distillery.saxa-vord",
+    "label": "Saxa Vord",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Shetland Distillery Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2015,
+      "location": "Unst"
+    }
+  },
+  {
+    "id": "distillery.scapa",
+    "label": "Scapa",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1885,
+      "location": "Kirkwall"
+    }
+  },
+  {
+    "id": "distillery.speyburn",
+    "label": "Speyburn",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Inver House Distillers",
+      "owner_primary": "International Beverage",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1897,
+      "location": "Rothes"
+    }
+  },
+  {
+    "id": "distillery.speyside",
+    "label": "Speyside",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Harvey's of Edinburgh Ltd.",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1990,
+      "location": "Drumguish"
+    }
+  },
+  {
+    "id": "distillery.springbank",
+    "label": "Springbank",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "owner_entity": "J&A Mitchell & Company",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1828,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.springside",
+    "label": "Springside",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1926,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.st-magdalene",
+    "label": "St. Magdalene",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "closed",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1983,
+      "location": "Linlithgow"
+    }
+  },
+  {
+    "id": "distillery.stannergill",
+    "label": "Stannergill",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Dunnet Bay Distillers",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2025,
+      "location": "Caithness"
+    }
+  },
+  {
+    "id": "distillery.strathdee",
+    "label": "Strathdee",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1942,
+      "location": "Aberdeen"
+    }
+  },
+  {
+    "id": "distillery.strathearn",
+    "label": "Strathearn",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Douglas Laing & Co.",
+      "owner_primary": "Douglas Laing & Co.",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2013,
+      "location": "Methven"
+    }
+  },
+  {
+    "id": "distillery.strathisla",
+    "label": "Strathisla",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Chivas Brothers",
+      "owner_primary": "Pernod Ricard",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1786,
+      "location": "Keith"
+    }
+  },
+  {
+    "id": "distillery.strathmill",
+    "label": "Strathmill",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1891,
+      "location": "Keith"
+    }
+  },
+  {
+    "id": "distillery.stromness",
+    "label": "Stromness",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1928,
+      "location": "Orkney"
+    }
+  },
+  {
+    "id": "distillery.stronarchie",
+    "label": "Stronarchie",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1928,
+      "location": "Forgandenny"
+    }
+  },
+  {
+    "id": "distillery.talisker",
+    "label": "Talisker",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1830,
+      "location": "Carbost"
+    }
+  },
+  {
+    "id": "distillery.tambovie",
+    "label": "Tambovie",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.lowlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1914,
+      "location": "Milngavie"
+    }
+  },
+  {
+    "id": "distillery.tamdhu",
+    "label": "Tamdhu",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Ian Macleod Distillers",
+      "owner_primary": "Ian Macleod Distillers",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1897,
+      "location": "Knockando"
+    }
+  },
+  {
+    "id": "distillery.tamnavulin",
+    "label": "Tamnavulin",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Whyte & Mackay",
+      "owner_primary": "Whyte & Mackay",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1966,
+      "location": "Tomnavoulin"
+    }
+  },
+  {
+    "id": "distillery.teaninich",
+    "label": "Teaninich",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Diageo",
+      "owner_primary": "Diageo",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1817,
+      "location": "Alness"
+    }
+  },
+  {
+    "id": "distillery.thistle",
+    "label": "Thistle",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1837,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.toberanrigh",
+    "label": "Toberanrigh",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1860,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.tobermory",
+    "label": "Tobermory",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Distell",
+      "owner_primary": "Distell",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1798,
+      "location": "Tobermory"
+    }
+  },
+  {
+    "id": "distillery.tomatin",
+    "label": "Tomatin",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Takara Shuzo Co",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1897,
+      "location": "Tomatin"
+    }
+  },
+  {
+    "id": "distillery.tomintoul",
+    "label": "Tomintoul",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Angus Dundee Distiller",
+      "owner_primary": "Angus Dundee Distillers",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1964,
+      "location": "Ballindalloch"
+    }
+  },
+  {
+    "id": "distillery.torabhaig",
+    "label": "Torabhaig",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.islands",
+      "country": "GB",
+      "owner_entity": "Mossburn Distillers",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2017,
+      "location": "Teangue"
+    }
+  },
+  {
+    "id": "distillery.tormore",
+    "label": "Tormore",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.speyside",
+      "country": "GB",
+      "owner_entity": "Elixir Distillers",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1958,
+      "location": "Grantown-on-Spey"
+    }
+  },
+  {
+    "id": "distillery.towiemore",
+    "label": "Towiemore",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1930,
+      "location": "Botriphnie"
+    }
+  },
+  {
+    "id": "distillery.tullibardine",
+    "label": "Tullibardine",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Picard Vins & Spiritueux",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1949,
+      "location": "Blackford"
+    }
+  },
+  {
+    "id": "distillery.uile-bheist",
+    "label": "Uile-bheist",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Victoria and John Erasmus",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 2023,
+      "location": "Inverness"
+    }
+  },
+  {
+    "id": "distillery.union",
+    "label": "Union",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1850,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.west-highland",
+    "label": "West Highland",
+    "aliases": [],
+    "lifecycle": "deprecated",
+    "meta": {
+      "region_id": "region.campbeltown",
+      "country": "GB",
+      "operational_status": "demolished",
+      "lineage": "original",
+      "extant": false,
+      "founded": 1852,
+      "location": "Campbeltown"
+    }
+  },
+  {
+    "id": "distillery.wolfburn",
+    "label": "Wolfburn",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "region_id": "region.highlands",
+      "country": "GB",
+      "owner_entity": "Aurora Brewing",
+      "owner_primary": "Independent",
+      "operational_status": "operational",
+      "lineage": "original",
+      "extant": true,
+      "founded": 1822,
+      "location": "Thurso"
+    }
+  }
+]

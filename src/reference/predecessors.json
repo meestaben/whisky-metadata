@@ -1,0 +1,310 @@
+[
+  {
+    "id": "predecessor.amarone",
+    "label": "Amarone",
+    "aliases": [
+      "ex-Amarone"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "wine",
+      "origin_country": "IT"
+    }
+  },
+  {
+    "id": "predecessor.amontillado-sherry",
+    "label": "Amontillado sherry",
+    "aliases": [
+      "Amontillado",
+      "ex-Amontillado"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "sherry",
+      "origin_country": "ES"
+    }
+  },
+  {
+    "id": "predecessor.armagnac",
+    "label": "Armagnac",
+    "aliases": [
+      "ex-Armagnac"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "brandy",
+      "origin_country": "FR"
+    }
+  },
+  {
+    "id": "predecessor.beer",
+    "label": "Beer",
+    "aliases": [
+      "ex-beer"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "beer",
+      "origin_country": "GB"
+    }
+  },
+  {
+    "id": "predecessor.bourbon",
+    "label": "Bourbon",
+    "aliases": [
+      "ex-bourbon"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "whiskey",
+      "origin_country": "US"
+    }
+  },
+  {
+    "id": "predecessor.champagne",
+    "label": "Champagne",
+    "aliases": [
+      "ex-Champagne"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "wine",
+      "origin_country": "FR"
+    }
+  },
+  {
+    "id": "predecessor.cognac",
+    "label": "Cognac",
+    "aliases": [
+      "ex-Cognac"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "brandy",
+      "origin_country": "FR"
+    }
+  },
+  {
+    "id": "predecessor.fino-sherry",
+    "label": "Fino sherry",
+    "aliases": [
+      "Fino",
+      "ex-Fino"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "sherry",
+      "origin_country": "ES"
+    }
+  },
+  {
+    "id": "predecessor.madeira",
+    "label": "Madeira",
+    "aliases": [
+      "ex-Madeira"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "fortified-wine",
+      "origin_country": "PT"
+    }
+  },
+  {
+    "id": "predecessor.manzanilla-sherry",
+    "label": "Manzanilla sherry",
+    "aliases": [
+      "Manzanilla",
+      "ex-Manzanilla"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "sherry",
+      "origin_country": "ES"
+    }
+  },
+  {
+    "id": "predecessor.marsala",
+    "label": "Marsala",
+    "aliases": [
+      "ex-Marsala"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "fortified-wine",
+      "origin_country": "IT"
+    }
+  },
+  {
+    "id": "predecessor.monbazillac",
+    "label": "Monbazillac",
+    "aliases": [
+      "ex-Monbazillac"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "wine",
+      "origin_country": "FR"
+    }
+  },
+  {
+    "id": "predecessor.moscatel-sherry",
+    "label": "Moscatel sherry",
+    "aliases": [
+      "Moscatel",
+      "ex-Moscatel"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "sherry",
+      "origin_country": "ES"
+    }
+  },
+  {
+    "id": "predecessor.oloroso-sherry",
+    "label": "Oloroso sherry",
+    "aliases": [
+      "ex-oloroso",
+      "Oloroso"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "sherry",
+      "origin_country": "ES"
+    }
+  },
+  {
+    "id": "predecessor.palo-cortado-sherry",
+    "label": "Palo Cortado sherry",
+    "aliases": [
+      "Palo Cortado",
+      "ex-Palo Cortado"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "sherry",
+      "origin_country": "ES"
+    }
+  },
+  {
+    "id": "predecessor.port",
+    "label": "Port",
+    "aliases": [
+      "Port (dry)",
+      "Port (semi-dry)",
+      "Port (sweet)",
+      "Ruby Port",
+      "ex-port",
+      "ex-port-pipe"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "port",
+      "origin_country": "PT"
+    }
+  },
+  {
+    "id": "predecessor.px-sherry",
+    "label": "Pedro Xim\u00e9nez sherry",
+    "aliases": [
+      "PX",
+      "ex-PX"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "sherry",
+      "origin_country": "ES"
+    }
+  },
+  {
+    "id": "predecessor.red-wine",
+    "label": "Red wine",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "wine",
+      "origin_country": "FR"
+    }
+  },
+  {
+    "id": "predecessor.rum",
+    "label": "Rum",
+    "aliases": [
+      "Dark Rum",
+      "Light Rum",
+      "ex-rum"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "rum",
+      "origin_country": "JM"
+    }
+  },
+  {
+    "id": "predecessor.rye-whiskey",
+    "label": "Rye whiskey",
+    "aliases": [
+      "ex-rye"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "whiskey",
+      "origin_country": "US"
+    }
+  },
+  {
+    "id": "predecessor.sauternes",
+    "label": "Sauternes",
+    "aliases": [
+      "ex-Sauternes"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "wine",
+      "origin_country": "FR"
+    }
+  },
+  {
+    "id": "predecessor.tequila",
+    "label": "Tequila",
+    "aliases": [
+      "ex-Tequila"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "spirit",
+      "origin_country": "MX"
+    }
+  },
+  {
+    "id": "predecessor.tokaji",
+    "label": "Tokaji",
+    "aliases": [
+      "ex-Tokaji"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "wine",
+      "origin_country": "HU"
+    }
+  },
+  {
+    "id": "predecessor.virgin-oak",
+    "label": "Virgin oak",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "none",
+      "origin_country": ""
+    }
+  },
+  {
+    "id": "predecessor.white-wine",
+    "label": "White wine",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "wine",
+      "origin_country": "FR"
+    }
+  }
+]

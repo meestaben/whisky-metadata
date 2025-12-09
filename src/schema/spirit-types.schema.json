@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://casknet.org/schema/spirit-types.schema.json",
+  "title": "Spirit types reference",
+  "type": "array",
+  "items": {
+    "allOf": [
+      {
+        "$ref": "https://casknet.org/schema/base.schema.json"
+      },
+      {
+        "type": "object",
+        "properties": {
+          "meta": {
+            "type": "object",
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "whisky",
+                  "whiskey",
+                  "rum",
+                  "brandy",
+                  "cognac",
+                  "gin",
+                  "vodka",
+                  "other"
+                ]
+              },
+              "country": {
+                "type": ["string", "null"],
+                "minLength": 2,
+                "maxLength": 2, 
+                "description": "ISO 3166-1 alpha-2 country code, or null/omitted for global spirit categories"
+              },
+              "region_required": {
+                "type": "boolean",
+                "default": false
+              }
+            },
+            "required": [
+              "category"
+            ],
+            "additionalProperties": false
+          }
+        }
+      }
+    ]
+  }
+}

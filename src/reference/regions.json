@@ -1,0 +1,71 @@
+[
+  {
+    "id": "region.highlands",
+    "label": "Highlands",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "country": "GB",
+      "notes": "Broad Scotch trade category including many mainland distilleries north of the Highland line."
+    }
+  },
+  {
+    "id": "region.speyside",
+    "label": "Speyside",
+    "aliases": [
+      "Spey Side"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "country": "GB",
+      "notes": "Area around the River Spey; treated separately in trade usage."
+    }
+  },
+  {
+    "id": "region.islay",
+    "label": "Islay",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "country": "GB"
+    }
+  },
+  {
+    "id": "region.campbeltown",
+    "label": "Campbeltown",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "country": "GB"
+    }
+  },
+  {
+    "id": "region.lowlands",
+    "label": "Lowlands",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "country": "GB"
+    }
+  },
+  {
+    "id": "region.islands",
+    "label": "Islands",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "country": "GB",
+      "notes": "Non-official trade grouping for island distilleries outside Islay."
+    }
+  },
+  {
+    "id": "region.other-scotland",
+    "label": "Other Scotland",
+    "aliases": [],
+    "lifecycle": "draft",
+    "meta": {
+      "country": "GB",
+      "notes": "Catch-all for edge cases; usage to be defined."
+    }
+  }
+]

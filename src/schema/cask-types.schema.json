@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://casknet.org/schema/cask-types.schema.json",
+  "title": "Cask type taxonomy",
+  "description": "Reference list of cask structural types (shape/size classes) used in Scotch whisky maturation.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^cask-type\\.[a-z0-9\\-]+$",
+        "description": "Stable identifier for the cask type (e.g. cask-type.barrel)."
+      },
+      "label": {
+        "type": "string",
+        "description": "Human-readable name of the cask type (e.g. Barrel, Hogshead)."
+      },
+      "aliases": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Optional list of alternative names and common variants."
+      },
+      "lifecycle": {
+        "type": "string",
+        "enum": [
+          "active",
+          "deprecated",
+          "draft"
+        ],
+        "description": "Catalogue status of this cask type."
+      },
+      "meta": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string",
+            "description": "Broad size/usage class for the cask (e.g. small, standard, large)."
+          },
+          "capacity_l_min": {
+            "type": "number",
+            "description": "Minimum typical capacity in litres for this cask type."
+          },
+          "capacity_l_max": {
+            "type": "number",
+            "description": "Maximum typical capacity in litres for this cask type."
+          }
+        },
+        "required": [
+          "category",
+          "capacity_l_min",
+          "capacity_l_max"
+        ],
+        "additionalProperties": true
+      }
+    },
+    "required": [
+      "id",
+      "label",
+      "lifecycle",
+      "meta"
+    ],
+    "additionalProperties": false
+  }
+}

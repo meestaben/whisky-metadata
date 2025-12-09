@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://casknet.org/schema/distilleries.schema.json",
+  "title": "Scotch malt distilleries reference",
+  "type": "array",
+  "items": {
+    "allOf": [
+      {
+        "$ref": "https://casknet.org/schema/base.schema.json"
+      },
+      {
+        "type": "object",
+        "properties": {
+          "meta": {
+            "type": "object",
+            "properties": {
+              "region_id": {
+                "type": "string",
+                "description": "Reference to regions.json entry (e.g. region.speyside)"
+              },
+              "country": {
+                "type": "string",
+                "const": "GB",
+                "description": "ISO 3166-1 alpha-2 country code; always GB for Scotch whisky."
+              },
+              "owner_entity": {
+                "type": "string",
+                "description": "Operating or trading entity that owns or controls the distillery."
+              },
+              "owner_primary": {
+                "type": "string",
+                "description": "Ultimate group owner where applicable (e.g. Diageo, Pernod Ricard), or Independent."
+              },
+              "operational_status": {
+                "type": "string",
+                "enum": [
+                  "operational",
+                  "closed",
+                  "demolished",
+                  "planned"
+                ],
+                "description": "Current operational state of the distillery site."
+              },
+              "lineage": {
+                "type": "string",
+                "enum": [
+                  "original",
+                  "revived",
+                  "rebuilt"
+                ],
+                "description": "High-level lineage classification comparing historic and current sites."
+              },
+              "extant": {
+                "type": "boolean",
+                "description": "True if any casks or bottles from this distillery exist or could exist; false for purely historical entries."
+              },
+              "founded": {
+                "type": "integer",
+                "description": "Year the distillery was founded, where known."
+              },
+              "location": {
+                "type": "string",
+                "description": "Human-readable location (town / island / locality)."
+              }
+            },
+            "required": [
+              "region_id",
+              "country",
+              "operational_status",
+              "lineage",
+              "extant"
+            ],
+            "additionalProperties": true
+          }
+        },
+        "required": [
+          "meta"
+        ]
+      }
+    ]
+  }
+}

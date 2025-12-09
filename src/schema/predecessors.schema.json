@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://casknet.org/schema/predecessors.schema.json",
+  "title": "Cask predecessor liquid taxonomy",
+  "description": "Reference list of previous cask contents (predecessor liquids) used in Scotch whisky maturation.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^predecessor\\.[a-z0-9\\-]+$",
+        "description": "Stable identifier for the predecessor entry (e.g. predecessor.bourbon)."
+      },
+      "label": {
+        "type": "string",
+        "description": "Human-readable name (e.g. Bourbon, Oloroso sherry)."
+      },
+      "aliases": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Optional list of alternative labels and common input variants that should map to this predecessor."
+      },
+      "lifecycle": {
+        "type": "string",
+        "enum": [
+          "active",
+          "deprecated",
+          "draft"
+        ],
+        "description": "Catalogue status of this predecessor entry."
+      },
+      "meta": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string",
+            "description": "High-level category (e.g. whiskey, sherry, wine, fortified-wine, rum, brandy, spirit, beer, none)."
+          },
+          "origin_country": {
+            "type": "string",
+            "description": "ISO 3166-1 alpha-2 country code where the predecessor liquid originates (e.g. US, ES, PT). May be empty for category 'none'."
+          }
+        },
+        "required": [
+          "category",
+          "origin_country"
+        ],
+        "additionalProperties": true
+      }
+    },
+    "required": [
+      "id",
+      "label",
+      "lifecycle",
+      "meta"
+    ],
+    "additionalProperties": false
+  }
+}

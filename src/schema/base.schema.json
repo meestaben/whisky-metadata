@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://casknet.org/schema/base.schema.json",
+  "title": "Base reference entry",
+  "type": "object",
+  "required": [
+    "id",
+    "label",
+    "lifecycle",
+    "meta"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9.-]+$",
+      "description": "Stable machine identifier, lowercase with dots and hyphens"
+    },
+    "label": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable name"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "default": [],
+      "description": "Alternative labels commonly used in the trade"
+    },
+    "lifecycle": {
+      "type": "string",
+      "enum": [
+        "active",
+        "deprecated",
+        "draft"
+      ],
+      "description": "Lifecycle state of this reference entry in the standard"
+    },
+    "meta": {
+      "type": "object",
+      "description": "Type-specific metadata"
+    }
+  },
+  "additionalProperties": false
+}

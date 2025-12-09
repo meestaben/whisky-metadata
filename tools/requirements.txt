@@ -1,0 +1,4 @@
+# Dependencies for validation tools only.
+# This repository is NOT a Python package.
+jsonschema>=4.18.0
+referencing>=0.30.0
