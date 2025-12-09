@@ -1,0 +1,26 @@
+id,label,lifecycle,aliases,category,origin_country
+predecessor.amarone,Amarone,active,ex-Amarone,wine,IT
+predecessor.amontillado-sherry,Amontillado sherry,active,Amontillado;ex-Amontillado,sherry,ES
+predecessor.armagnac,Armagnac,active,ex-Armagnac,brandy,FR
+predecessor.beer,Beer,active,ex-beer,beer,GB
+predecessor.bourbon,Bourbon,active,ex-bourbon,whiskey,US
+predecessor.champagne,Champagne,active,ex-Champagne,wine,FR
+predecessor.cognac,Cognac,active,ex-Cognac,brandy,FR
+predecessor.fino-sherry,Fino sherry,active,Fino;ex-Fino,sherry,ES
+predecessor.madeira,Madeira,active,ex-Madeira,fortified-wine,PT
+predecessor.manzanilla-sherry,Manzanilla sherry,active,Manzanilla;ex-Manzanilla,sherry,ES
+predecessor.marsala,Marsala,active,ex-Marsala,fortified-wine,IT
+predecessor.monbazillac,Monbazillac,active,ex-Monbazillac,wine,FR
+predecessor.moscatel-sherry,Moscatel sherry,active,Moscatel;ex-Moscatel,sherry,ES
+predecessor.oloroso-sherry,Oloroso sherry,active,ex-oloroso;Oloroso,sherry,ES
+predecessor.palo-cortado-sherry,Palo Cortado sherry,active,Palo Cortado;ex-Palo Cortado,sherry,ES
+predecessor.port,Port,active,Port (dry);Port (semi-dry);Port (sweet);Ruby Port;ex-port;ex-port-pipe,port,PT
+predecessor.px-sherry,Pedro Ximénez sherry,active,PX;ex-PX,sherry,ES
+predecessor.red-wine,Red wine,active,,wine,FR
+predecessor.rum,Rum,active,Dark Rum;Light Rum;ex-rum,rum,JM
+predecessor.rye-whiskey,Rye whiskey,active,ex-rye,whiskey,US
+predecessor.sauternes,Sauternes,active,ex-Sauternes,wine,FR
+predecessor.tequila,Tequila,active,ex-Tequila,spirit,MX
+predecessor.tokaji,Tokaji,active,ex-Tokaji,wine,HU
+predecessor.virgin-oak,Virgin oak,active,,none,
+predecessor.white-wine,White wine,active,,wine,FR

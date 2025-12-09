@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fill-type.virgin",
+    "label": "Virgin oak",
+    "aliases": [
+      "Virgin"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "fill_number": 0
+    }
+  },
+  {
+    "id": "fill-type.first",
+    "label": "First fill",
+    "aliases": [
+      "1st fill",
+      "First-fill"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "fill_number": 1
+    }
+  },
+  {
+    "id": "fill-type.second",
+    "label": "Second fill",
+    "aliases": [
+      "2nd fill",
+      "Second-fill"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "fill_number": 2
+    }
+  },
+  {
+    "id": "fill-type.third",
+    "label": "Third fill",
+    "aliases": [
+      "3rd fill",
+      "Third-fill"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "fill_number": 3
+    }
+  },
+  {
+    "id": "fill-type.fourth",
+    "label": "Fourth fill",
+    "aliases": [
+      "4th fill",
+      "Fourth-fill"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "fill_number": 4
+    }
+  },
+  {
+    "id": "fill-type.refill",
+    "label": "Refill (unspecified)",
+    "aliases": [
+      "Refill"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "fill_number": null
+    }
+  }
+]

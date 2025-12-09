@@ -1,0 +1,161 @@
+[
+  {
+    "id": "cask-type.barrel",
+    "label": "Barrel",
+    "aliases": [
+      "American Standard Barrel",
+      "ASB"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "standard",
+      "capacity_l_min": 200,
+      "capacity_l_max": 200
+    }
+  },
+  {
+    "id": "cask-type.barrique",
+    "label": "Barrique",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "standard",
+      "capacity_l_min": 225,
+      "capacity_l_max": 225
+    }
+  },
+  {
+    "id": "cask-type.blood-tub",
+    "label": "Blood Tub",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "small",
+      "capacity_l_min": 30,
+      "capacity_l_max": 40
+    }
+  },
+  {
+    "id": "cask-type.butt",
+    "label": "Butt",
+    "aliases": [
+      "Sherry Butt"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "large",
+      "capacity_l_min": 500,
+      "capacity_l_max": 500
+    }
+  },
+  {
+    "id": "cask-type.demi-satyr",
+    "label": "Demi-Satyr",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "large",
+      "capacity_l_min": 333,
+      "capacity_l_max": 333
+    }
+  },
+  {
+    "id": "cask-type.hogshead",
+    "label": "Hogshead",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "standard",
+      "capacity_l_min": 230,
+      "capacity_l_max": 250
+    }
+  },
+  {
+    "id": "cask-type.kilderkin",
+    "label": "Kilderkin",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "small",
+      "capacity_l_min": 82,
+      "capacity_l_max": 82
+    }
+  },
+  {
+    "id": "cask-type.madeira-drum",
+    "label": "Madeira Drum",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "large",
+      "capacity_l_min": 650,
+      "capacity_l_max": 650
+    }
+  },
+  {
+    "id": "cask-type.octave",
+    "label": "Octave",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "small",
+      "capacity_l_min": 50,
+      "capacity_l_max": 50
+    }
+  },
+  {
+    "id": "cask-type.firkin",
+    "label": "Firkin",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "small",
+      "capacity_l_min": 41,
+      "capacity_l_max": 41
+    }
+  },
+  {
+    "id": "cask-type.pipe",
+    "label": "Pipe",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "large",
+      "capacity_l_min": 350,
+      "capacity_l_max": 350
+    }
+  },
+  {
+    "id": "cask-type.puncheon",
+    "label": "Puncheon",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "large",
+      "capacity_l_min": 500,
+      "capacity_l_max": 700
+    }
+  },
+  {
+    "id": "cask-type.quarter-cask",
+    "label": "Quarter Cask",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "small",
+      "capacity_l_min": 125,
+      "capacity_l_max": 125
+    }
+  },
+  {
+    "id": "cask-type.rundlet",
+    "label": "Rundlet",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "small",
+      "capacity_l_min": 68,
+      "capacity_l_max": 68
+    }
+  }
+]

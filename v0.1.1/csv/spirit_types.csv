@@ -1,0 +1,7 @@
+id,label,lifecycle,aliases,category,country,region_required
+spirit-type.single-malt-scotch,Single malt Scotch whisky,active,SMSW,whisky,GB,True
+spirit-type.single-grain-scotch,Single grain Scotch whisky,active,,whisky,GB,False
+spirit-type.blended-scotch,Blended Scotch whisky,active,,whisky,GB,False
+spirit-type.irish-whiskey,Irish whiskey,active,,whiskey,IE,False
+spirit-type.japanese-whisky,Japanese whisky,active,,whisky,JP,False
+spirit-type.rum,Rum,active,,rum,,False

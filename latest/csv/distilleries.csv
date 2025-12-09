@@ -1,0 +1,237 @@
+id,label,lifecycle,aliases,country,extant,founded,lineage,location,operational_status,owner_entity,owner_primary,region_id
+distillery.8-doors,8 Doors,active,,GB,True,2022,original,John O’Groats,operational,Kerry and Derek Campbell,Independent,region.highlands
+distillery.aberargie,Aberargie,active,,GB,True,2017,original,Aberargie,operational,Perth Distilling Co,Independent,region.lowlands
+distillery.aberfeldy,Aberfeldy,active,,GB,True,1896,original,Aberfeldy,operational,John Dewar & Sons,Bacardi,region.highlands
+distillery.aberlour,Aberlour,active,,GB,True,1879,original,Aberlour,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.abhainn-dearg,Abhainn Dearg,active,,GB,True,2008,original,Uig,operational,Mark Tayburn,Independent,region.islands
+distillery.adelphi,Adelphi,deprecated,,GB,False,1907,original,Glasgow,demolished,,,region.lowlands
+distillery.ailsa-bay,Ailsa Bay,active,,GB,True,2009,original,Girvan,operational,William Grant & Sons,William Grant & Sons,region.lowlands
+distillery.albyn,Albyn,deprecated,,GB,False,1920,original,Millknowe,demolished,,,region.campbeltown
+distillery.allt-a-bhainne,Allt-A-Bhainne,active,,GB,True,1975,original,Glenrinnes,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.annandale,Annandale,active,,GB,True,1836,original,Annan,operational,Annandale Distillery Company,Independent,region.lowlands
+distillery.arbikie,Arbikie,active,,GB,True,2013,original,Inverkeilor,operational,Arbikie Highland Estate,Independent,region.highlands
+distillery.ardbeg,Ardbeg,active,,GB,True,1815,original,Port Ellen,operational,LVMH,Independent,region.islay
+distillery.ardgowan,Ardgowan,active,,GB,True,1896,original,Inverkip,operational,Ardgowan Distillery Company,Independent,region.lowlands
+distillery.ardlussa,Ardlussa,deprecated,,GB,False,1927,original,Campbeltown,demolished,,,region.campbeltown
+distillery.ardmore,Ardmore,active,,GB,True,1898,original,Kennethmont,operational,Suntory Global Spirits,Suntory Global Spirits,region.highlands
+distillery.ardnahoe,Ardnahoe,active,,GB,True,2019,original,Port Askaig,operational,Hunter Laing & Company,Independent,region.islay
+distillery.ardnamurchan,Ardnamurchan,active,,GB,True,2014,original,Ardnamurchan,operational,Adelphi Distillery Co,Independent,region.highlands
+distillery.ardross,Ardross,active,,GB,True,2019,original,Alness,operational,Greenwood Distillers,Independent,region.highlands
+distillery.argyll,Argyll,deprecated,,GB,False,1923,original,Campbeltown,demolished,,,region.campbeltown
+distillery.arran,Arran,active,,GB,True,1995,original,Lochranza,operational,Isle of Arran Distillers Ltd.,Isle of Arran Distillers,region.islands
+distillery.auchentoshan,Auchentoshan,active,,GB,True,1823,original,Dalmuir,operational,Suntory Global Spirits,Suntory Global Spirits,region.lowlands
+distillery.auchinblae,Auchinblae,deprecated,,GB,False,1929,original,Auchenblae,demolished,,,region.highlands
+distillery.auchnagie,Auchnagie,deprecated,,GB,False,1911,original,Tulliemet,demolished,,,region.highlands
+distillery.auchroisk,Auchroisk,active,,GB,True,1972,original,Mulben,operational,Diageo,Diageo,region.speyside
+distillery.auchtermuchty,Auchtermuchty,active,,GB,True,1926,original,Auchtermuchty,closed,,,region.lowlands
+distillery.auchtertool,Auchtertool,deprecated,,GB,False,1927,original,Auchtertool,demolished,,,region.lowlands
+distillery.aultmore,Aultmore,active,,GB,True,1895,original,Banffshire,operational,John Dewar & Sons,Bacardi,region.speyside
+distillery.balblair,Balblair,active,,GB,True,1790,original,Edderton,operational,Inver House Distillers,International Beverage,region.highlands
+distillery.ballechin,Ballechin,deprecated,,GB,False,1927,original,Pitlochry,demolished,,,region.highlands
+distillery.ballindalloch,Ballindalloch,active,,GB,True,2014,original,Ballindalloch,operational,Ballindalloch Distillery LLP,Independent,region.speyside
+distillery.balmenach,Balmenach,active,,GB,True,1824,original,Cromdale,operational,Inver House Distillers,International Beverage,region.speyside
+distillery.balvenie,Balvenie,active,The Balvenie,GB,True,1892,original,Dufftown,operational,William Grant & Sons,William Grant & Sons,region.speyside
+distillery.banff,Banff,deprecated,,GB,False,1983,original,Banff,demolished,,,region.speyside
+distillery.bankier,Bankier,deprecated,,GB,False,1928,original,Denny,demolished,,,region.lowlands
+distillery.ben-morven,Ben Morven,deprecated,,GB,False,1914,original,Halkirk,demolished,,,region.highlands
+distillery.ben-nevis,Ben Nevis,active,,GB,True,1825,original,Fort William,operational,Nikka Whisky Distilling Co Ltd,Independent,region.highlands
+distillery.ben-wyvis,Ben Wyvis,deprecated,,GB,False,1977,original,Dingwall,demolished,,,region.highlands
+distillery.benachie,Benachie,deprecated,,GB,False,1915,original,Insch,demolished,,,region.highlands
+distillery.benbecula,Benbecula,active,,GB,True,2024,original,Outer Hebrides,operational,Angus A. MacMillan,Independent,region.islands
+distillery.benmore,Benmore,active,,GB,True,1927,original,Campbeltown,closed,,,region.campbeltown
+distillery.benriach,BenRiach,active,,GB,True,1898,original,Longmorn,operational,Brown-Forman,Brown-Forman,region.speyside
+distillery.benrinnes,Benrinnes,active,,GB,True,1826,original,Banffshire,operational,Diageo,Diageo,region.speyside
+distillery.benromach,Benromach,active,,GB,True,1898,original,Forres,operational,Gordon & MacPhail,Gordon & MacPhail,region.speyside
+distillery.blackness,Blackness,active,,GB,True,2024,original,Linlithgow,operational,Colm O'Rourke,Independent,region.lowlands
+distillery.bladnoch,Bladnoch,active,,GB,True,1817,original,Wigtown,operational,David Prior,Independent,region.lowlands
+distillery.blair-athol,Blair Athol,active,,GB,True,1798,original,Pitlochry,operational,Diageo,Diageo,region.highlands
+distillery.bon-accord,Bon Accord,deprecated,,GB,False,1913,original,Aberdeen,demolished,,,region.highlands
+distillery.bonnington,Bonnington,active,,GB,True,2020,original,Edinburgh,operational,Halewood Artisanal Spirits,Independent,region.lowlands
+distillery.borders,Borders,active,,GB,True,2018,original,Hawick,operational,The Three Stills Company,Independent,region.lowlands
+distillery.bowmore,Bowmore,active,,GB,True,1779,original,Bowmore,operational,Suntory Global Spirits,Suntory Global Spirits,region.islay
+distillery.braeval,Braeval,active,,GB,True,1973,original,Ballindalloch,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.brewdog,BrewDog,active,,GB,True,2007,original,Ellon,operational,BrewDog,Independent,region.highlands
+distillery.brora,Brora,active,,GB,True,1819,revived,Brora,operational,Diageo,Diageo,region.highlands
+distillery.bruichladdich,Bruichladdich,active,,GB,True,1881,original,Rhinns of Islay,operational,Rémy Cointreau,Independent,region.islay
+distillery.bunnahabhain,Bunnahabhain,active,,GB,True,1881,original,Port Askaig,operational,Distell,Distell,region.islay
+distillery.burn-o-bennie,Burn O'Bennie,active,,GB,True,2021,original,Banchory,operational,Deeside Brewery & Distillery Ltd.,Independent,region.highlands
+distillery.burnside,Burnside,deprecated,,GB,False,1919,original,Campbeltown,demolished,,,region.campbeltown
+distillery.cabrach,Cabrach,active,,GB,True,2024,original,Cabrach,operational,The Cabrach Trust,Independent,region.speyside
+distillery.cairn,Cairn,active,,GB,True,2022,original,Grantown-on-Spey,operational,Gordon & MacPhail,Gordon & MacPhail,region.speyside
+distillery.caledonian,Caledonian,deprecated,,GB,False,1842,original,Campbeltown,demolished,,,region.campbeltown
+distillery.campbeltown,Campbeltown,deprecated,,GB,False,1924,original,Campbeltown,demolished,,,region.campbeltown
+distillery.caol-ila,Caol Ila,active,,GB,True,1846,original,Port Askaig,operational,Diageo,Diageo,region.islay
+distillery.caperdonich,Caperdonich,active,,GB,True,2002,original,Rothes,demolished,,,region.speyside
+distillery.cardhu,Cardhu,active,,GB,True,1824,original,Knockando,operational,Diageo,Diageo,region.speyside
+distillery.clydesdale,Clydesdale,deprecated,,GB,False,1919,original,Wishaw,demolished,,,region.lowlands
+distillery.clydeside,Clydeside,active,,GB,True,2017,original,Glasgow,operational,Morrison Glasgow Distillers,Independent,region.lowlands
+distillery.clynelish,Clynelish,active,,GB,True,1967,original,Brora,operational,Diageo,Diageo,region.highlands
+distillery.coleburn,Coleburn,active,,GB,True,1985,original,Elgin,planned,,,region.speyside
+distillery.convalmore,Convalmore,active,,GB,True,1985,original,Dufftown,closed,,,region.speyside
+distillery.cragganmore,Cragganmore,active,,GB,True,1869,original,Ballindalloch,operational,Diageo,Diageo,region.speyside
+distillery.craigellachie,Craigellachie,active,,GB,True,1891,original,Craigellachie,operational,John Dewar & Sons,Bacardi,region.speyside
+distillery.daftmill,Daftmill,active,,GB,True,2005,original,Fife,operational,Francis and Ian Cuthbert,Independent,region.lowlands
+distillery.dailuaine,Dailuaine,active,,GB,True,1852,original,Aberlour,operational,Diageo,Diageo,region.speyside
+distillery.dalaruan,Dalaruan,deprecated,,GB,False,1922,original,Campbeltown,demolished,,,region.campbeltown
+distillery.dalintober,Dalintober,deprecated,,GB,False,1925,original,Campbeltown,demolished,,,region.campbeltown
+distillery.dallas-dhu,Dallas Dhu,active,,GB,True,1983,original,Forres,planned,,,region.speyside
+distillery.dalmore,Dalmore,active,The Dalmore,GB,True,1839,original,Alness,operational,Whyte & Mackay,Whyte & Mackay,region.highlands
+distillery.dalmunach,Dalmunach,active,,GB,True,2015,original,Carron,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.dalwhinnie,Dalwhinnie,active,,GB,True,1898,original,Dalwhinnie,operational,Diageo,Diageo,region.highlands
+distillery.dean,Dean,deprecated,,GB,False,1922,original,Edinburgh,demolished,,,region.lowlands
+distillery.deanston,Deanston,active,,GB,True,1965,original,Doune,operational,Distell,Distell,region.highlands
+distillery.devanha,Devanha,deprecated,,GB,False,1915,original,Aberdeen,demolished,,,region.highlands
+distillery.dornoch,Dornoch,active,,GB,True,2017,original,Dornoch,operational,Dornoch Distillery Company,Independent,region.highlands
+distillery.drumcaldie,Drumcaldie,deprecated,,GB,False,1903,original,Fife,demolished,,,region.lowlands
+distillery.drumore,Drumore,deprecated,,GB,False,1847,original,Campbeltown,demolished,,,region.campbeltown
+distillery.dufftown,Dufftown,active,,GB,True,1895,original,Banffshire,operational,Diageo,Diageo,region.speyside
+distillery.dunphail,Dunphail,active,,GB,True,2023,original,Edinkillie,operational,Bimber,Independent,region.speyside
+distillery.eden-mill,Eden Mill,active,,GB,True,2012,original,Fife,operational,Paul Miller,Independent,region.lowlands
+distillery.edinburgh,Edinburgh,deprecated,,GB,False,1925,original,Edinburgh,demolished,,,region.lowlands
+distillery.edradour,Edradour,active,,GB,True,1825,original,Pitlochry,operational,Signatory Vintage Scotch Whisky Co,Independent,region.highlands
+distillery.falkirk,Falkirk,active,,GB,True,2020,original,Falkirk,operational,Fiona Stewart,Independent,region.lowlands
+distillery.fettercairn,Fettercairn,active,,GB,True,1824,original,Fettercairn,operational,Whyte & Mackay,Whyte & Mackay,region.highlands
+distillery.finnieston,Finnieston,deprecated,,GB,False,1827,original,Glasgow,demolished,,,region.lowlands
+distillery.fortrose,Fortrose,deprecated,,GB,False,1852,original,Fortrose,demolished,,,region.highlands
+distillery.galloway,Galloway,active,,GB,True,2017,original,Galloway,operational,Sam Heughan,Independent,region.lowlands
+distillery.glasgow,Glasgow,active,,GB,True,2015,original,Glasgow,operational,The Glasgow Distillery Company,Independent,region.lowlands
+distillery.glen-albyn,Glen Albyn,deprecated,,GB,False,1983,original,Inverness,demolished,,,region.highlands
+distillery.glen-elgin,Glen Elgin,active,,GB,True,1898,original,Fogwatt,operational,Diageo,Diageo,region.speyside
+distillery.glen-flagler,Glen Flagler,active,,GB,True,1985,original,Airdrie,closed,,,region.lowlands
+distillery.glen-garioch,Glen Garioch,active,,GB,True,1797,original,Oldmeldrum,operational,Suntory Global Spirits,Suntory Global Spirits,region.highlands
+distillery.glen-grant,Glen Grant,active,,GB,True,1840,original,Rothes,operational,Campari,Independent,region.speyside
+distillery.glen-keith,Glen Keith,active,,GB,True,1957,revived,Keith,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.glen-mhor,Glen Mhor,deprecated,,GB,False,1983,original,Inverness,demolished,,,region.highlands
+distillery.glen-moray,Glen Moray,active,,GB,True,1897,original,Elgin,operational,La Martiniquaise,Independent,region.speyside
+distillery.glen-nevis,Glen Nevis,deprecated,,GB,False,1923,original,Campbeltown,demolished,,,region.campbeltown
+distillery.glen-ord,Glen Ord,active,,GB,True,1838,original,Muir of Ord,operational,Diageo,Diageo,region.highlands
+distillery.glen-scotia,Glen Scotia,active,,GB,True,1832,original,Campbeltown,operational,Loch Lomond Group,Loch Lomond Group,region.campbeltown
+distillery.glen-spey,Glen Spey,active,,GB,True,1878,original,Rothes,operational,Diageo,Diageo,region.speyside
+distillery.glenaden,Glenaden,deprecated,,GB,False,1915,original,Old Deer,demolished,,,region.highlands
+distillery.glenallachie,Glenallachie,active,The GlenAllachie,GB,True,1967,original,Banffshire,operational,The GlenAllachie Distillers Co Limited,Independent,region.speyside
+distillery.glenburgie,Glenburgie,active,,GB,True,1810,original,Moray,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.glencadam,Glencadam,active,,GB,True,1825,original,Angus,operational,Angus Dundee Distiller,Angus Dundee Distillers,region.highlands
+distillery.glencawdor,Glencawdor,deprecated,,GB,False,1927,original,Nairn,demolished,,,region.highlands
+distillery.glencoull,Glencoull,deprecated,,GB,False,1927,original,Angus,demolished,,,region.highlands
+distillery.glendronach,Glendronach,active,The GlenDronach,GB,True,1826,original,Aberdeenshire,operational,Brown-Forman,Brown-Forman,region.highlands
+distillery.glendullan,Glendullan,active,,GB,True,1897,original,Banffshire,operational,Diageo,Diageo,region.speyside
+distillery.glenesk,Glenesk,deprecated,,GB,False,1985,original,Montrose,demolished,,,region.highlands
+distillery.glenfarclas,Glenfarclas,active,,GB,True,1836,original,Ballindalloch,operational,J. & G. Grant,Independent,region.speyside
+distillery.glenfiddich,Glenfiddich,active,,GB,True,1886,original,Dufftown,operational,William Grant & Sons,William Grant & Sons,region.speyside
+distillery.glenfoyle,Glenfoyle,deprecated,,GB,False,1923,original,Gargunnock,demolished,,,region.highlands
+distillery.glengilp,Glengilp,deprecated,,GB,False,1937,original,Ardrishaig,demolished,,,region.highlands
+distillery.glenglassaugh,Glenglassaugh,active,,GB,True,1875,original,Portsoy,operational,Brown-Forman,Brown-Forman,region.highlands
+distillery.glengoyne,Glengoyne,active,,GB,True,1833,original,Dumgoyne,operational,Ian Macleod Distillers,Ian Macleod Distillers,region.highlands
+distillery.glengyle,Glengyle,active,,GB,True,1872,original,Campbeltown,operational,Mitchell's Glengyle Ltd,Independent,region.campbeltown
+distillery.gleniffer,Gleniffer,deprecated,,GB,False,1894,original,Elderslie,demolished,,,region.lowlands
+distillery.glenkinchie,Glenkinchie,active,,GB,True,1837,original,Pencaitland,operational,Diageo,Diageo,region.lowlands
+distillery.glenlivet,Glenlivet,active,The Glenlivet,GB,True,1824,original,Ballindalloch,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.glenlochy,Glenlochy,deprecated,,GB,False,1983,original,Fort William,demolished,,,region.highlands
+distillery.glenlossie,Glenlossie,active,,GB,True,1876,original,Elgin,operational,Diageo,Diageo,region.speyside
+distillery.glenmavis,Glenmavis,deprecated,,GB,False,1910,original,Bathgate,demolished,,,region.lowlands
+distillery.glenmorangie,Glenmorangie,active,,GB,True,1843,original,Tain,operational,LVMH,Independent,region.highlands
+distillery.glenramskill,Glenramskill,deprecated,,GB,False,1854,original,Campbeltown,demolished,,,region.campbeltown
+distillery.glenrothes,Glenrothes,active,The Glenrothes,GB,True,1879,original,Rothes,operational,Edrington,Edrington,region.speyside
+distillery.glenside,Glenside,deprecated,,GB,False,1926,original,Campbeltown,demolished,,,region.campbeltown
+distillery.glenskiach,Glenskiach,deprecated,,GB,False,1926,original,Evanton,demolished,,,region.highlands
+distillery.glentarras,Glentarras,deprecated,,GB,False,1914,original,Langholm,demolished,,,region.lowlands
+distillery.glentauchers,Glentauchers,active,,GB,True,1897,original,Mulben,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.glenturret,Glenturret,active,The Glenturret,GB,True,1763,original,Crieff,operational,Lalique Group,Independent,region.highlands
+distillery.glenugie,Glenugie,deprecated,,GB,False,1983,original,Peterhead,demolished,,,region.highlands
+distillery.glenury,Glenury,deprecated,,GB,False,1985,original,Stonehaven,demolished,,,region.highlands
+distillery.glenwyvis,GlenWyvis,active,,GB,True,2015,original,Dingwall,operational,GlenWyvis Distillery Ltd.,Independent,region.highlands
+distillery.grandtully,Grandtully,deprecated,,GB,False,1910,original,Grandtully,demolished,,,region.highlands
+distillery.grange,Grange,deprecated,,GB,False,1925,original,Burntisland,demolished,,,region.lowlands
+distillery.greenock,Greenock,deprecated,,GB,False,1915,original,Greenock,demolished,,,region.lowlands
+distillery.harris,Harris,active,,GB,True,2015,original,Tarbert,operational,Isle of Harris Distillers Ltd.,Independent,region.islands
+distillery.highland,Highland,deprecated,,GB,False,1852,original,Campbeltown,demolished,,,region.campbeltown
+distillery.highland-park,Highland Park,active,,GB,True,1798,original,Kirkwall,operational,Edrington,Edrington,region.islands
+distillery.holyrood,Holyrood,active,,GB,True,2019,original,Edinburgh,operational,David Robertson,Independent,region.lowlands
+distillery.imperial,Imperial,active,,GB,True,1998,original,Carron,demolished,,,region.speyside
+distillery.inchdairnie,Inchdairnie,active,,GB,True,2015,original,Glenrothes,operational,John Fergus & Co.,Independent,region.lowlands
+distillery.inchgower,Inchgower,active,,GB,True,1871,original,Buckie,operational,Diageo,Diageo,region.speyside
+distillery.inverleven,Inverleven,deprecated,,GB,False,1991,original,Dumbarton,demolished,,,region.lowlands
+distillery.isla,Isla,deprecated,,GB,False,1926,original,Perth,demolished,,,region.highlands
+distillery.jackton,Jackton,active,,GB,True,2020,original,Jackton,operational,RAER Spirits,Independent,region.lowlands
+distillery.jura,Jura,active,,GB,True,1810,original,Craighouse,operational,Whyte & Mackay,Whyte & Mackay,region.islands
+distillery.kilchoman,Kilchoman,active,,GB,True,2005,original,Kilchoman,operational,Kilchoman Distillery Company,Independent,region.islay
+distillery.kinclaith,Kinclaith,deprecated,,GB,False,1976,original,Glasgow,demolished,,,region.lowlands
+distillery.kingsbarns,Kingsbarns,active,,GB,True,2014,original,Kingsbarns,operational,The Kingsbarns Company of Distillers,Independent,region.lowlands
+distillery.kininvie,Kininvie,active,,GB,True,1990,original,Dufftown,operational,William Grant & Sons,William Grant & Sons,region.speyside
+distillery.kinloch,Kinloch,deprecated,,GB,False,1926,original,Campbeltown,demolished,,,region.campbeltown
+distillery.kintyre,Kintyre,deprecated,,GB,False,1920,original,Campbeltown,demolished,,,region.campbeltown
+distillery.knockando,Knockando,active,,GB,True,1898,original,Knockando,operational,Diageo,Diageo,region.speyside
+distillery.knockdhu,Knockdhu,active,,GB,True,1894,original,Knock,operational,Inver House Distillers,International Beverage,region.speyside
+distillery.ladyburn,Ladyburn,deprecated,,GB,False,1975,original,Girvan,demolished,,,region.lowlands
+distillery.lagavulin,Lagavulin,active,,GB,True,1816,original,Port Ellen,operational,Diageo,Diageo,region.islay
+distillery.lagg,Lagg,active,,GB,True,2019,original,Lagg,operational,Isle of Arran Distillers Ltd.,Isle of Arran Distillers,region.islands
+distillery.langholm,Langholm,deprecated,,GB,False,1917,original,Langholm,demolished,,,region.lowlands
+distillery.laphroaig,Laphroaig,active,,GB,True,1815,original,Port Ellen,operational,Suntory Global Spirits,Suntory Global Spirits,region.islay
+distillery.leven,Leven,active,,GB,True,2013,original,Leven,operational,Diageo,Diageo,region.lowlands
+distillery.lindores-abbey,Lindores Abbey,active,,GB,True,2017,original,Newburgh,operational,Lindores Distilling Co.,Independent,region.lowlands
+distillery.linkwood,Linkwood,active,,GB,True,1821,original,Elgin,operational,Diageo,Diageo,region.speyside
+distillery.littlemill,Littlemill,deprecated,,GB,False,1992,original,Bowling,demolished,,,region.lowlands
+distillery.loch-katrine,Loch Katrine,deprecated,,GB,False,1920,original,Glasgow,demolished,,,region.lowlands
+distillery.loch-lomond,Loch Lomond,active,,GB,True,1964,original,Alexandria,operational,Loch Lomond Group,Loch Lomond Group,region.highlands
+distillery.lochhead,Lochhead,deprecated,,GB,False,1928,original,Campbeltown,demolished,,,region.campbeltown
+distillery.lochlea,Lochlea,active,,GB,True,2018,original,Ayrshire,operational,Neil McGeoch,Independent,region.lowlands
+distillery.lochruan,Lochruan,deprecated,,GB,False,1925,original,Campbeltown,demolished,,,region.campbeltown
+distillery.lochside,Lochside,deprecated,,GB,False,1992,original,Montrose,demolished,,,region.highlands
+distillery.longmorn,Longmorn,active,,GB,True,1893,original,Elgin,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.macallan,Macallan,active,The Macallan,GB,True,1824,original,Craigellachie,operational,Edrington,Edrington,region.speyside
+distillery.macduff,Macduff,active,,GB,True,1960,original,Banff,operational,John Dewar & Sons,Bacardi,region.highlands
+distillery.mannochmore,Mannochmore,active,,GB,True,1971,original,Elgin,operational,Diageo,Diageo,region.speyside
+distillery.meadowburn,Meadowburn,deprecated,,GB,False,1882,original,Campbeltown,demolished,,,region.campbeltown
+distillery.millburn,Millburn,deprecated,,GB,False,1985,original,Inverness,demolished,,,region.highlands
+distillery.miltonduff,Miltonduff,active,,GB,True,1824,original,Elgin,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.mortlach,Mortlach,active,,GB,True,1823,original,Dufftown,operational,Diageo,Diageo,region.speyside
+distillery.mossfield,Mossfield,deprecated,,GB,False,1837,original,Campbeltown,demolished,,,region.campbeltown
+distillery.ncnean,Nc’nean,active,,GB,True,2017,original,Lochlaline,operational,Drimnin Distillery Company,Independent,region.highlands
+distillery.north-port,North Port,deprecated,,GB,False,1983,original,Brechin,demolished,,,region.highlands
+distillery.north-uist,North Uist,active,,GB,True,2024,original,Benbecula,operational,North Uist Distillery Company,Independent,region.islands
+distillery.oban,Oban,active,,GB,True,1794,original,Oban,operational,Diageo,Diageo,region.highlands
+distillery.parkmore,Parkmore,active,,GB,True,1988,original,Dufftown,closed,,,region.speyside
+distillery.pittyvaich,Pittyvaich,deprecated,,GB,False,1993,original,Dufftown,demolished,,,region.speyside
+distillery.port-charlotte,Port Charlotte,active,,GB,True,1929,original,Port Charlotte,closed,,,region.islay
+distillery.port-ellen,Port Ellen,active,,GB,True,1825,rebuilt,Port Ellen,operational,Diageo,Diageo,region.islay
+distillery.port-of-leith,Port of Leith,active,,GB,True,2023,original,Edinburgh,operational,Muckle Brig,Independent,region.lowlands
+distillery.provanmill,Provanmill,deprecated,,GB,False,1922,original,Glasgow,demolished,,,region.lowlands
+distillery.pulteney,Pulteney,active,,GB,True,1826,original,Wick,operational,Inver House Distillers,International Beverage,region.highlands
+distillery.raasay,Raasay,active,,GB,True,2014,original,Isle of Raasay,operational,R&B Distillers,Independent,region.islands
+distillery.rosebank,Rosebank,active,,GB,True,1798,rebuilt,Falkirk,operational,Ian Macleod Distillers,Ian Macleod Distillers,region.lowlands
+distillery.roseisle,Roseisle,active,,GB,True,2010,original,Roseisle,operational,Diageo,Diageo,region.speyside
+distillery.royal-brackla,Royal Brackla,active,,GB,True,1812,original,Nairn,operational,John Dewar & Sons,Bacardi,region.highlands
+distillery.royal-lochnagar,Royal Lochnagar,active,,GB,True,1845,original,Ballater,operational,Diageo,Diageo,region.highlands
+distillery.saucel,Saucel,deprecated,,GB,False,1915,original,Paisley,demolished,,,region.lowlands
+distillery.saxa-vord,Saxa Vord,active,,GB,True,2015,original,Unst,operational,Shetland Distillery Company,Independent,region.islands
+distillery.scapa,Scapa,active,,GB,True,1885,original,Kirkwall,operational,Chivas Brothers,Pernod Ricard,region.islands
+distillery.speyburn,Speyburn,active,,GB,True,1897,original,Rothes,operational,Inver House Distillers,International Beverage,region.speyside
+distillery.speyside,Speyside,active,,GB,True,1990,original,Drumguish,operational,Harvey's of Edinburgh Ltd.,Independent,region.speyside
+distillery.springbank,Springbank,active,,GB,True,1828,original,Campbeltown,operational,J&A Mitchell & Company,Independent,region.campbeltown
+distillery.springside,Springside,deprecated,,GB,False,1926,original,Campbeltown,demolished,,,region.campbeltown
+distillery.st-magdalene,St. Magdalene,active,,GB,True,1983,original,Linlithgow,closed,,,region.lowlands
+distillery.stannergill,Stannergill,active,,GB,True,2025,original,Caithness,operational,Dunnet Bay Distillers,Independent,region.highlands
+distillery.strathdee,Strathdee,deprecated,,GB,False,1942,original,Aberdeen,demolished,,,region.highlands
+distillery.strathearn,Strathearn,active,,GB,True,2013,original,Methven,operational,Douglas Laing & Co.,Douglas Laing & Co.,region.highlands
+distillery.strathisla,Strathisla,active,,GB,True,1786,original,Keith,operational,Chivas Brothers,Pernod Ricard,region.speyside
+distillery.strathmill,Strathmill,active,,GB,True,1891,original,Keith,operational,Diageo,Diageo,region.speyside
+distillery.stromness,Stromness,deprecated,,GB,False,1928,original,Orkney,demolished,,,region.highlands
+distillery.stronarchie,Stronarchie,deprecated,,GB,False,1928,original,Forgandenny,demolished,,,region.highlands
+distillery.talisker,Talisker,active,,GB,True,1830,original,Carbost,operational,Diageo,Diageo,region.islands
+distillery.tambovie,Tambovie,deprecated,,GB,False,1914,original,Milngavie,demolished,,,region.lowlands
+distillery.tamdhu,Tamdhu,active,,GB,True,1897,original,Knockando,operational,Ian Macleod Distillers,Ian Macleod Distillers,region.speyside
+distillery.tamnavulin,Tamnavulin,active,,GB,True,1966,original,Tomnavoulin,operational,Whyte & Mackay,Whyte & Mackay,region.speyside
+distillery.teaninich,Teaninich,active,,GB,True,1817,original,Alness,operational,Diageo,Diageo,region.highlands
+distillery.thistle,Thistle,deprecated,,GB,False,1837,original,Campbeltown,demolished,,,region.campbeltown
+distillery.toberanrigh,Toberanrigh,deprecated,,GB,False,1860,original,Campbeltown,demolished,,,region.campbeltown
+distillery.tobermory,Tobermory,active,,GB,True,1798,original,Tobermory,operational,Distell,Distell,region.islands
+distillery.tomatin,Tomatin,active,,GB,True,1897,original,Tomatin,operational,Takara Shuzo Co,Independent,region.highlands
+distillery.tomintoul,Tomintoul,active,,GB,True,1964,original,Ballindalloch,operational,Angus Dundee Distiller,Angus Dundee Distillers,region.speyside
+distillery.torabhaig,Torabhaig,active,,GB,True,2017,original,Teangue,operational,Mossburn Distillers,Independent,region.islands
+distillery.tormore,Tormore,active,,GB,True,1958,original,Grantown-on-Spey,operational,Elixir Distillers,Independent,region.speyside
+distillery.towiemore,Towiemore,deprecated,,GB,False,1930,original,Botriphnie,demolished,,,region.highlands
+distillery.tullibardine,Tullibardine,active,,GB,True,1949,original,Blackford,operational,Picard Vins & Spiritueux,Independent,region.highlands
+distillery.uile-bheist,Uile-bheist,active,,GB,True,2023,original,Inverness,operational,Victoria and John Erasmus,Independent,region.highlands
+distillery.union,Union,deprecated,,GB,False,1850,original,Campbeltown,demolished,,,region.campbeltown
+distillery.west-highland,West Highland,deprecated,,GB,False,1852,original,Campbeltown,demolished,,,region.campbeltown
+distillery.wolfburn,Wolfburn,active,,GB,True,1822,original,Thurso,operational,Aurora Brewing,Independent,region.highlands

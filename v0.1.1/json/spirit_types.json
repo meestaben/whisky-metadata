@@ -1,0 +1,70 @@
+[
+  {
+    "id": "spirit-type.single-malt-scotch",
+    "label": "Single malt Scotch whisky",
+    "aliases": [
+      "SMSW"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "category": "whisky",
+      "country": "GB",
+      "region_required": true
+    }
+  },
+  {
+    "id": "spirit-type.single-grain-scotch",
+    "label": "Single grain Scotch whisky",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "whisky",
+      "country": "GB",
+      "region_required": false
+    }
+  },
+  {
+    "id": "spirit-type.blended-scotch",
+    "label": "Blended Scotch whisky",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "whisky",
+      "country": "GB",
+      "region_required": false
+    }
+  },
+  {
+    "id": "spirit-type.irish-whiskey",
+    "label": "Irish whiskey",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "whiskey",
+      "country": "IE",
+      "region_required": false
+    }
+  },
+  {
+    "id": "spirit-type.japanese-whisky",
+    "label": "Japanese whisky",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "whisky",
+      "country": "JP",
+      "region_required": false
+    }
+  },
+  {
+    "id": "spirit-type.rum",
+    "label": "Rum",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "category": "rum",
+      "country": null,
+      "region_required": false
+    }
+  }
+]

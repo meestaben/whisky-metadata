@@ -1,0 +1,15 @@
+id,label,lifecycle,aliases,capacity_l_max,capacity_l_min,category
+cask-type.barrel,Barrel,active,American Standard Barrel;ASB,200,200,standard
+cask-type.barrique,Barrique,active,,225,225,standard
+cask-type.blood-tub,Blood Tub,active,,40,30,small
+cask-type.butt,Butt,active,Sherry Butt,500,500,large
+cask-type.demi-satyr,Demi-Satyr,active,,333,333,large
+cask-type.hogshead,Hogshead,active,,250,230,standard
+cask-type.kilderkin,Kilderkin,active,,82,82,small
+cask-type.madeira-drum,Madeira Drum,active,,650,650,large
+cask-type.octave,Octave,active,,50,50,small
+cask-type.firkin,Firkin,active,,41,41,small
+cask-type.pipe,Pipe,active,,350,350,large
+cask-type.puncheon,Puncheon,active,,700,500,large
+cask-type.quarter-cask,Quarter Cask,active,,125,125,small
+cask-type.rundlet,Rundlet,active,,68,68,small
