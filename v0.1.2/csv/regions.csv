@@ -1,0 +1,8 @@
+id,label,lifecycle,aliases,country,notes
+region.highlands,Highlands,active,,GB,Broad Scotch trade category including many mainland distilleries north of the Highland line.
+region.speyside,Speyside,active,Spey Side,GB,Area around the River Spey; treated separately in trade usage.
+region.islay,Islay,active,,GB,
+region.campbeltown,Campbeltown,active,,GB,
+region.lowlands,Lowlands,active,,GB,
+region.islands,Islands,active,,GB,Non-official trade grouping for island distilleries outside Islay.
+region.other-scotland,Other Scotland,draft,,GB,Catch-all for edge cases; usage to be defined.

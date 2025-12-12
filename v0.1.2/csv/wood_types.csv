@@ -1,0 +1,5 @@
+id,label,lifecycle,aliases,latin_name,notes
+wood-type.oak-american,American oak,active,Quercus alba,Quercus alba,
+wood-type.oak-european,European oak,active,Quercus robur;Quercus petraea,Quercus robur / Quercus petraea,
+wood-type.oak-french,French oak,active,,Quercus robur / Quercus petraea,Trade distinction often used for wine casks.
+wood-type.oak-mizunara,Mizunara oak,active,Quercus mongolica,Quercus mongolica,Associated with Japanese maturation.

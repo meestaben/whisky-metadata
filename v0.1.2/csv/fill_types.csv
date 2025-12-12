@@ -1,0 +1,7 @@
+id,label,lifecycle,aliases,fill_number
+fill-type.virgin,Virgin oak,active,Virgin,0
+fill-type.first,First fill,active,1st fill;First-fill,1
+fill-type.second,Second fill,active,2nd fill;Second-fill,2
+fill-type.third,Third fill,active,3rd fill;Third-fill,3
+fill-type.fourth,Fourth fill,active,4th fill;Fourth-fill,4
+fill-type.refill,Refill (unspecified),active,Refill,

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "wood-type.oak-american",
+    "label": "American oak",
+    "aliases": [
+      "Quercus alba"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "latin_name": "Quercus alba",
+      "notes": ""
+    }
+  },
+  {
+    "id": "wood-type.oak-european",
+    "label": "European oak",
+    "aliases": [
+      "Quercus robur",
+      "Quercus petraea"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "latin_name": "Quercus robur / Quercus petraea",
+      "notes": ""
+    }
+  },
+  {
+    "id": "wood-type.oak-french",
+    "label": "French oak",
+    "aliases": [],
+    "lifecycle": "active",
+    "meta": {
+      "latin_name": "Quercus robur / Quercus petraea",
+      "notes": "Trade distinction often used for wine casks."
+    }
+  },
+  {
+    "id": "wood-type.oak-mizunara",
+    "label": "Mizunara oak",
+    "aliases": [
+      "Quercus mongolica"
+    ],
+    "lifecycle": "active",
+    "meta": {
+      "latin_name": "Quercus mongolica",
+      "notes": "Associated with Japanese maturation."
+    }
+  }
+]
