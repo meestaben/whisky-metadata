@@ -70,12 +70,9 @@
               "lineage",
               "extant"
             ],
-            "additionalProperties": true
+            "additionalProperties": false
           }
-        },
-        "required": [
-          "meta"
-        ]
+        }
       }
     ]
   }
